@@ -2,13 +2,13 @@
 # Đề tài: Website bán hàng trực tuyến
 <h3>Thành viên nhóm: </h3>
 <h1>Leader: Nguyễn Đình Vũ
-</h2> Bùi Hải Đăng 
-</h3> Thái Kim Xuân Quỳnh
-</h4> Võ Minh Tân
-</h5> Nguyễn Thiện Phúc
-</h6> Đỗ Khắc Luật
-</h7> Tống Bảo Duy
-</h8> Nguyễn Thanh Duy
+Bùi Hải Đăng 
+Thái Kim Xuân Quỳnh
+Võ Minh Tân
+Nguyễn Thiện Phúc
+Đỗ Khắc Luật
+Tống Bảo Duy
+Nguyễn Thanh Duy
 
 
 
