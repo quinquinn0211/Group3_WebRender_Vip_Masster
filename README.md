@@ -1,6 +1,6 @@
 # Nhóm 3
 # Đề tài: Website bán hàng trực tuyến
-<h3>Link demo: https://taphoashop.herokuapp.com/</h3>
+<h3>Link demo: </h3>
 <h3>Thành viên nhóm: </h3>
 <h6>+ 
 
@@ -39,7 +39,7 @@ npm run prod
 # Tài khoản đăng nhập vào website:
 ```
 + Khách hàng
-	Tài khoản: 
+	Tài khoản:Dinhvucoder@gmail.com 
 	Mật khẩu: 123456
 + Quản trị
 	Tài khoản: nguyendinhvutkt@gmail.com
