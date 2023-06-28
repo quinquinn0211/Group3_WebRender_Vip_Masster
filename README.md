@@ -1,8 +1,7 @@
 # Nhóm 3
 # Đề tài: Website bán hàng trực tuyến
-<h3>Link demo: https://taphoashop.herokuapp.com/</h3>
 <h3>Thành viên nhóm: </h3>
-<h6>+ 
+<h3>Leader: Nguyễn Đình Vũ </h3> 
 
 
 
