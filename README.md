@@ -1,7 +1,15 @@
 # Nhóm 3
 # Đề tài: Website bán hàng trực tuyến
 <h3>Thành viên nhóm: </h3>
-<h3>Leader: Nguyễn Đình Vũ </h3> 
+<h1>Leader: Nguyễn Đình Vũ
+</h2> Bùi Hải Đăng 
+</h3> Thái Kim Xuân Quỳnh
+</h4> Võ Minh Tân
+</h5> Nguyễn Thiện Phúc
+</h6> Đỗ Khắc Luật
+</h7> Tống Bảo Duy
+</h8> Nguyễn Thanh Duy
+
 
 
 
@@ -38,7 +46,7 @@ npm run prod
 # Tài khoản đăng nhập vào website:
 ```
 + Khách hàng
-	Tài khoản: 
+	Tài khoản:Dinhvucoder@gmail.com 
 	Mật khẩu: 123456
 + Quản trị
 	Tài khoản: nguyendinhvutkt@gmail.com
